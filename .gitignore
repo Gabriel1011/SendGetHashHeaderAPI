@@ -3,3 +3,9 @@
 ################################################################################
 
 /getHash/bin/Debug/netcoreapp2.2
+/getHash/obj/Debug/netcoreapp2.2
+/sendHash/.vs/sendHash/v16/Server/sqlite3
+/sendHash/obj
+/sendHash/bin/Debug/netcoreapp2.2
+/getHash/obj
+/getHash/.vs/getHash/v16/Server/sqlite3
